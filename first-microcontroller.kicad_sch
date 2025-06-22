@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(date "2025-06-22")
-		(rev "v0.3")
+		(rev "v0.4")
 		(comment 3 "ATMEGA32U4 breakout microcontroller")
 		(comment 4 "Author: Spencer Lommel")
 	)
@@ -7348,7 +7348,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "5.5v TP"
+		(property "Value" "5v TP"
 			(at 114.554 48.26 90)
 			(effects
 				(font

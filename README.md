@@ -5,4 +5,4 @@ This is just a simple PCB design to breakout an [ATmega32U4](https://ww1.microch
 ## More info 
 I will eventually write up a small post about this controller and have some pictures of the final design/physical project at my website https://spencerlommel.com
 
-![rev v0.3 schematic](/images/atmega32u4-MCU-v0.3SJL.png)
+![rev v0.3 schematic](/images/atmega32u4-MCU-v0.4SJL.png)

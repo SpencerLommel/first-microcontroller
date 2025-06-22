@@ -1,1 +1,1 @@
-need crystal oscillator (16 MHz)
+ICSP RST (pin 5) must be connected to pin 13 on 32u4 not PE2.
